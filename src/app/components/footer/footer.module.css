@@ -1,0 +1,15 @@
+.footer{
+    margin: 36px 24px;
+}
+.menu{
+    display: flex;
+}
+.option{
+    text-decoration: none;
+    color: black;
+    margin: 12px 12px;
+}
+.copyright{
+    margin: 0px 12px;
+    color:gray
+}

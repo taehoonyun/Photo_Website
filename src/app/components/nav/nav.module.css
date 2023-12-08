@@ -1,0 +1,16 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 36px 24px;
+}
+.title{
+    display: flex;
+}
+.menu{
+    display: flex;
+}
+.option{
+    text-decoration: none;
+    color: black;
+    margin: 0 12px;
+}
